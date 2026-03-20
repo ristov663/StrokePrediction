@@ -10,7 +10,7 @@
 
 <h2> Project on the topic COMPARATIVE ANALYSIS OF STROKE PREDICTION MODELS USING MACHINE LEARNING <h2/>
 
-Link to the student paper (preprint version): [![Paper](https://img.shields.io/badge/Student_paper-PDF-red)](https://arxiv.org/pdf/2505.09812)
+Link to the Student paper (preprint version): [![Paper](https://img.shields.io/badge/Student_paper-PDF-red)](https://arxiv.org/pdf/2505.09812)
 
 ---
 
